@@ -92,8 +92,7 @@ genres i vibe with :
 
 <div align="center">
 
-![Pacman](https://github.com/zerophyx-4/zerophyx-4/blob/output/github-contribution-grid-snake.svg)
-
+![Pacman](https://github.com/zerophyx-4/zerophyx-4/blob/output/pacman-contribution-graph.svg)
 </div>
 
 ---
