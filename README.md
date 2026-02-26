@@ -31,6 +31,8 @@
 
 ```yaml
 Name     : Fatur
+Age      : 14 y/o
+Grade    : 9th Grade — Junior High
 Focus    : ROM Porting  ·  Magisk Modules
 Status   : Relaxed, Productive when the mood strikes
 Motto    : "Man of 1000 dreams."
