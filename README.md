@@ -93,6 +93,33 @@ genres i vibe with :
 <div align="center">
 
 ![Pacman](https://github.com/zerophyx-4/zerophyx-4/blob/output/pacman-contribution-graph.svg)
+
+</div>
+
+---
+
+## ◈ Socials 🌐
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-emptyd1sc__-000000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/emptyd1sc_)
+[![X](https://img.shields.io/badge/X-emptyd1sc-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/emptyd1sc)
+[![TikTok](https://img.shields.io/badge/TikTok-horiennsho-000000?style=flat-square&logo=tiktok&logoColor=white)](https://tiktok.com/@horiennsho)
+[![Telegram](https://img.shields.io/badge/Telegram-zerophyx-000000?style=flat-square&logo=telegram&logoColor=white)](https://t.me/zerophyx)
+[![Roblox](https://img.shields.io/badge/Roblox-andi__yudhafir-000000?style=flat-square&logo=roblox&logoColor=white)](https://www.roblox.com/id/users/1448989765/profile)
+
+</div>
+
+---
+
+## ◈ Like My Work?! 🍪
+
+<div align="center">
+
+*Buy me some snack cuz i also lov snacks :V*
+
+[![Sociabuzz](https://img.shields.io/badge/Sociabuzz-Support%20Me-000000?style=flat-square&logo=ko-fi&logoColor=white)](https://sociabuzz.com/rdite/tribe)
+
 </div>
 
 ---
