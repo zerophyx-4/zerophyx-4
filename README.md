@@ -27,10 +27,10 @@
 
 ---
 
-## ◈ about
+## ◈ About Me 👤
 
 ```yaml
-name     : zerophyx-4
+name     : Fatur Rahman
 focus    : ROM Porting  ·  Magisk Modules
 status   : Relaxed, Productive when the mood strikes
 motto    : "Man of 1000 dreams."
@@ -38,7 +38,7 @@ motto    : "Man of 1000 dreams."
 
 ---
 
-## ◈ what i do
+## ◈ What i do
 
 ```
 🔧  ROM Porting       →  like playing puzzle
@@ -47,7 +47,7 @@ motto    : "Man of 1000 dreams."
 
 ---
 
-## ◈ stack
+## ◈ Stack
 
 ![Android](https://img.shields.io/badge/Android-000000?style=flat-square&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
@@ -55,30 +55,28 @@ motto    : "Man of 1000 dreams."
 
 ---
 
-## ◈ what's in my ears
+## ◈ What's in my ears 🤠🎶
 
 ```
 genres i vibe with :
 
-  ◦ Pluggnb          →  dark, melodic, heavy bass
+  ◦ Pluggnb          →  melodic, and playful
   ◦ HipDut           →  dutch rap energy
   ◦ Arabic Song      →  emotional & cinematic
-  ◦ JJCore           →  jujutsu kaisen-coded beats
+  ◦ JJCore           →  awesome song rythm
   ◦ Vocaloid         →  synthetic soul
   ◦ HyperPop         →  chaotic and loud, just like my mind
 ```
 
 ---
 
-## ◈ recently played
+## ◈ Recently Played 🎶▶️
 
 ![spotify](https://spotify-recently-played-readme.vercel.app/api?user=31zoke6ilfw7qgv42sxm6qnlxndu&count=5&width=400)
 
-](https://open.spotify.com)
-
 ---
 
-## ◈ stats
+## ◈ Stats 📊
 
 <div align="center">
 
@@ -88,7 +86,7 @@ genres i vibe with :
 
 ---
 
-## ◈ contribution
+## ◈ Contribution 🤝
 
 <div align="center">
 
@@ -106,11 +104,6 @@ compiled in silence  ·  released among the stars
 </div>
 
 ---
-
-<details>
-<summary>⚙️ setup pacman snake (klik untuk lihat)</summary>
-
-buat file `.github/workflows/snake.yml` di repo ini, isi dengan:
 
 ```yaml
 name: Generate Snake
