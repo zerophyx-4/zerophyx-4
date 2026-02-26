@@ -35,7 +35,7 @@ Age      : 14 y/o
 Grade    : 9th Grade — Junior High
 Focus    : ROM Porting  ·  Magisk Modules
 Status   : Relaxed, Productive when the mood strikes
-Motto    : "Man of 1000 dreams."
+Motto    : "Boy of 1000 dreams."
 ```
 
 ---
@@ -119,7 +119,7 @@ genres i vibe with :
 *Buy me some snack cuz i also lov snacks :V*
 
 [![Sociabuzz](https://img.shields.io/badge/Sociabuzz-Support%20Me-000000?style=flat-square&logo=ko-fi&logoColor=white)](https://sociabuzz.com/rdite/tribe)
-
+[![Saweria](https://img.shields.io/badge/Saweria-Support%20Me-000000?style=flat-square&logo=ko-fi&logoColor=white)](https://saweria.co/zerophyx)
 </div>
 
 ---
