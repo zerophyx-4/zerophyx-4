@@ -72,9 +72,9 @@ genres i vibe with :
 
 ## ◈ recently played
 
-[![spotify](https://spotify-recently-played-readme.vercel.app/api?user=31zoke6ilfw7qgv42sxm6qnlxndu&count=5&width=400)](https://open.spotify.com)
+![spotify](https://spotify-recently-played-readme.vercel.app/api?user=31zoke6ilfw7qgv42sxm6qnlxndu&count=5&width=400)
 
-> ⚠️ ganti `YOUR_SPOTIFY_USER_ID` dengan Spotify User ID kamu
+](https://open.spotify.com)
 
 ---
 
