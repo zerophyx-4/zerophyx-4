@@ -130,7 +130,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
-
-lalu pergi ke tab **Actions** → run workflow-nya manual sekali.
-
-</details>
