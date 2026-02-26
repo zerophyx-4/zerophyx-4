@@ -30,10 +30,10 @@
 ## ◈ About Me 👤
 
 ```yaml
-name     : Fatur Rahman
-focus    : ROM Porting  ·  Magisk Modules
-status   : Relaxed, Productive when the mood strikes
-motto    : "Man of 1000 dreams."
+Name     : Fatur
+Focus    : ROM Porting  ·  Magisk Modules
+Status   : Relaxed, Productive when the mood strikes
+Motto    : "Man of 1000 dreams."
 ```
 
 ---
@@ -102,31 +102,3 @@ compiled in silence  ·  released among the stars
 ```
 
 </div>
-
----
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: zerophyx-4
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
