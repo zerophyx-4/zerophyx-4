@@ -94,7 +94,7 @@ def generate_svg(friends_data):
   <defs>
     {defs_svg}
     <clipPath id="card-clip">
-      <rect x="0" y="{padding_top}" width="{card_width}" height="{svg_height - padding_top}"/>
+      <rect x="0" y="0" width="{card_width}" height="{svg_height}"/>
     </clipPath>
   </defs>
 
