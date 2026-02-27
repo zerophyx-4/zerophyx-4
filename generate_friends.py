@@ -49,9 +49,13 @@ def generate_svg(friends_data):
         y_offset    = row_idx * item_height
         duration    = 12 + row_idx * 2
 
-        # Geser dari luar card ke seberang
-        from_x = -row_width if direction == "right" else card_width
-        to_x   = card_width if direction == "right" else -row_width
+        # Animasi seamless: mulai dari posisi terlihat, geser keluar, langsung lompat balik
+        if direction == "right":
+            from_x = 0
+            to_x   = row_width
+        else:
+            from_x = 0
+            to_x   = -row_width
 
         items_inner = ""
 
