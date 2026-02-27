@@ -120,11 +120,12 @@ genres i vibe with :
 
 ## ◈ Socials 🌐
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/zerophyx-4/zerophyx-4/main/assets/playing.gif" width="220" />
-
-<br><br>
+<table>
+<tr>
+<td valign="center" width="35%">
+<img src="https://raw.githubusercontent.com/zerophyx-4/zerophyx-4/main/assets/playing.gif" width="200" />
+</td>
+<td valign="center" width="65%">
 
 [![Instagram](https://img.shields.io/badge/Instagram-emptyd1sc__-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/emptyd1sc_)
 [![X](https://img.shields.io/badge/X-emptyd1sc-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/emptyd1sc)
@@ -132,7 +133,9 @@ genres i vibe with :
 [![Telegram](https://img.shields.io/badge/Telegram-zerophyx-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zerophyx)
 [![Roblox](https://img.shields.io/badge/Roblox-andi__yudhafir-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/id/users/1448989765/profile)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -140,7 +143,7 @@ genres i vibe with :
 
 <div align="center">
 
-*Buy me some snack cuz i also lov snacks :D*
+*Buy me some snack cuz i also lov snacks :V*
 
 [![Sociabuzz](https://img.shields.io/badge/Sociabuzz-Support%20Me-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sociabuzz.com/rdite/tribe)
 [![Saweria](https://img.shields.io/badge/Saweria-Support%20Me-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/zerophyx)
