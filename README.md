@@ -1,33 +1,12 @@
 <div align="center">
 
-<table>
-<tr>
-<td valign="center" width="60%">
+<sub>zerophyx / GitHub Profile</sub>
 
-# Hii! 👋
-
-```
-███████╗███████╗██████╗  ██████╗ ██████╗ ██╗  ██╗██╗   ██╗██╗  ██╗ 
-╚══███╔╝██╔════╝██╔══██╗██╔═══██╗██╔══██╗██║  ██║╚██╗ ██╔╝╚██╗██╔╝ 
-  ███╔╝ █████╗  ██████╔╝██║   ██║██████╔╝███████║ ╚████╔╝  ╚███╔╝
- ███╔╝  ██╔══╝  ██╔══██╗██║   ██║██╔═══╝ ██╔══██║  ╚██╔╝   ██╔██╗
-███████╗███████╗██║  ██║╚██████╔╝██║     ██║  ██║   ██║   ██╔╝ ██╗
-╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-```
+<img src="https://raw.githubusercontent.com/zerophyx-4/zerophyx-4/main/assets/elaina.gif" width="100%" />
 
 *Just a quiet person with ideals that might be considered unique 🤠.*
 
-**`zerophyx-4`** — not lost, just got too many worlds to conquer.
-
-</td>
-<td valign="center" width="40%">
-
-<!-- 🖼️ Ganti URL di bawah dengan link foto anime lo -->
-<img src="https://placehold.co/300x350/0d0d0d/ffffff?text=anime+photo+here" width="280" />
-
-</td>
-</tr>
-</table>
+**`zerophyx`** — not lost, just got too many worlds to conquer.
 
 </div>
 
@@ -35,11 +14,11 @@
 
 ## ◈ About Me 👤
 
-**Name** — Fatur
-**Age** — 14 y/o 🎂
-**Grade** — 9th Grade, Junior High
-**Focus** — ROM Porting · Magisk Modules
-**Status** — Relaxed, productive when the mood strikes
+**Name** — Fatur\
+**Age** — 14 y/o 🎂\
+**Grade** — 9th Grade, Junior High\
+**Focus** — ROM Porting · Magisk Modules\
+**Status** — Relaxed, productive when the mood strikes\
 **Motto** — *"Boy of 1000 dreams."*
 
 ---
@@ -54,7 +33,6 @@
 ## ◈ Stack
 
 ![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
@@ -63,11 +41,11 @@
 
 genres i vibe with :
 
-◦ **Pluggnb** — melodic, and playful
-◦ **HipDut** — dutch rap energy
-◦ **Arabic Song** — emotional & cinematic
-◦ **JJCore** — awesome song rhythm
-◦ **Vocaloid** — synthetic soul
+◦ **Pluggnb** — melodic, and playful\
+◦ **HipDut** — dutch rap energy\
+◦ **Arabic Song** — emotional & cinematic\
+◦ **JJCore** — awesome song rhythm\
+◦ **Vocaloid** — synthetic soul\
 ◦ **HyperPop** — chaotic and loud, just like my mind
 
 ---
@@ -82,7 +60,7 @@ genres i vibe with :
 
 <marquee scrollamount="4">
 &nbsp;&nbsp;&nbsp;
-👤 zerophyx-4 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+👤 zerophyx &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 👤 xtensei &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 👤 username2 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 👤 username3 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -97,7 +75,9 @@ genres i vibe with :
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="55" align="left" />&nbsp;&nbsp; **📊 Telemetry (zerophyx-4)**
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="61" align="left" />&nbsp;&nbsp; **📊 Telemetry (zerophyx)**
+
+*"every commit tells a story."*
 
 <br><br>
 
@@ -107,11 +87,11 @@ genres i vibe with :
 
 <br>
 
-![Snake](https://github.com/zerophyx-4/zerophyx-4/blob/output/pacman-contribution-graph.svg)
+![Snake](https://raw.githubusercontent.com/zerophyx-4/zerophyx-4/output/pacman-contribution-graph.svg)
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=zerophyx-4&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zerophyx-4&icon=2&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -125,7 +105,7 @@ genres i vibe with :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerophyx-4&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888)
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=zerophyx-4&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=zerophyx-4&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -134,6 +114,10 @@ genres i vibe with :
 ## ◈ Recently Played 🎶▶️
 
 <div align="center">
+
+*"music, for me, has a connection with the process of living in the world of coding."*
+
+<br>
 
 ![spotify](https://spotify-recently-played-readme.vercel.app/api?user=31zoke6ilfw7qgv42sxm6qnlxndu&count=5&width=400)
 
@@ -144,6 +128,10 @@ genres i vibe with :
 ## ◈ Socials 🌐
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/zerophyx-4/zerophyx-4/main/assets/playing.gif" width="220" />
+
+<br><br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-emptyd1sc__-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/emptyd1sc_)
 [![X](https://img.shields.io/badge/X-emptyd1sc-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/emptyd1sc)
