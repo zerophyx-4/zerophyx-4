@@ -58,16 +58,9 @@ genres i vibe with :
 
 <br>
 
-<marquee scrollamount="4">
-&nbsp;&nbsp;&nbsp;
-👤 zerophyx &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-👤 xtensei &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-👤 username2 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-👤 username3 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-👤 username4 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</marquee>
-
-<!-- 🔧 Tambahin username temen-temen lo di marquee di atas -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/zerophyx-4/zerophyx-4/main/assets/friends.svg" width="520" />
+</div>
 
 ---
 
