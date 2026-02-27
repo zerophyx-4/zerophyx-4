@@ -25,7 +25,7 @@ def generate_svg(friends_data):
     item_size   = 90   # diameter avatar
     item_width  = 140  # lebar slot per orang
     item_height = 130  # tinggi slot per baris
-    padding_top = 55   # ruang untuk judul
+    padding_top = 80   # ruang untuk judul (dibesarin biar baris pertama ga kepotong)
 
     # Bagi teman ke sejumlah baris yang ditentukan di config
     total   = len(friends_data)
@@ -67,16 +67,16 @@ def generate_svg(friends_data):
             gh_link  = f"https://github.com/{username}"
             avatar_b64 = friend.get("avatar")
 
-            defs_svg += f'<clipPath id="{clip_id}"><circle cx="{cx}" cy="{y_offset + 45}" r="44"/></clipPath>'
+            defs_svg += f'<clipPath id="{clip_id}"><circle cx="{cx}" cy="{y_offset + 55}" r="44"/></clipPath>'
 
             items_inner += f'<a href="{gh_link}" target="_blank">'
 
             if avatar_b64:
-                items_inner += f'<image href="data:image/png;base64,{avatar_b64}" x="{cx - 44}" y="{y_offset + 1}" width="88" height="88" clip-path="url(#{clip_id})" />'
+                items_inner += f'<image href="data:image/png;base64,{avatar_b64}" x="{cx - 44}" y="{y_offset + 11}" width="88" height="88" clip-path="url(#{clip_id})" />'
             else:
-                items_inner += f'<circle cx="{cx}" cy="{y_offset + 45}" r="44" fill="#2a2a2a"/>'
+                items_inner += f'<circle cx="{cx}" cy="{y_offset + 55}" r="44" fill="#2a2a2a"/>'
 
-            items_inner += f'<text x="{cx}" y="{y_offset + 108}" text-anchor="middle" fill="#cccccc" font-size="11" font-family="{FONT}">@{username}</text>'
+            items_inner += f'<text x="{cx}" y="{y_offset + 118}" text-anchor="middle" fill="#cccccc" font-size="11" font-family="{FONT}">@{username}</text>'
             items_inner += '</a>'
 
         items_svg += f'''
