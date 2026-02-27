@@ -1,6 +1,6 @@
 <div align="center">
 
-<sub>zerophyx / GitHub Profile</sub>
+<sub>zerophyx GitHub Profile</sub>
 
 <img src="https://raw.githubusercontent.com/zerophyx-4/zerophyx-4/main/assets/elaina.gif" width="100%" />
 
@@ -68,7 +68,7 @@ genres i vibe with :
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="61" align="left" />&nbsp;&nbsp; **📊 Telemetry (zerophyx)**
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="61" align="left" />&nbsp;&nbsp; **📊 Statistics (zerophyx)**
 
 *"every commit tells a story."*
 
@@ -140,7 +140,7 @@ genres i vibe with :
 
 <div align="center">
 
-*Buy me some snack cuz i also lov snacks :V*
+*Buy me some snack cuz i also lov snacks :D*
 
 [![Sociabuzz](https://img.shields.io/badge/Sociabuzz-Support%20Me-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sociabuzz.com/rdite/tribe)
 [![Saweria](https://img.shields.io/badge/Saweria-Support%20Me-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/zerophyx)
