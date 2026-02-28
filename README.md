@@ -25,15 +25,56 @@
 
 ## ◈ What do i like to do? 🛠️
 
-- 🔧 **OEM Porting** - porting custom ROMs for MediaTek platforms, like solving a puzzle that fights back.
-- 🧩 **Magisk Modules** - bending android to my will, one module at a time.
-- 📚 **Trying something new** - like making your own shell script, even though it often fails, making autoport, learning to make banners, etc.
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/android-os.png" width="64"/>
+      <br/>
+      <b>🔧 OEM Porting</b>
+      <br/>
+      <sub><i>like solving a puzzle that fights back</i></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/puzzle.png" width="64"/>
+      <br/>
+      <b>🧩 Magisk Modules</b>
+      <br/>
+      <sub><i>bending android to my will, one module at a time</i></sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/opened-book.png" width="64"/>
+      <br/>
+      <b>📚 Trying Something New</b>
+      <br/>
+      <sub><i>scripts, banners, autoport & more</i></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
 ---
 
 ## ◈ Stack
 
-![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/fluency/96/android-os.png" width="48"/>
+      &nbsp;&nbsp;<b>Android</b>
+      <br/>
+      <sub><i>primary platform for ROM porting</i></sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/fluency/96/console.png" width="48"/>
+      &nbsp;&nbsp;<b>Shell</b>
+      <br/>
+      <sub><i>scripting, automation & module building</i></sub>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -41,12 +82,12 @@
 
 Genres i vibe with :
 
-◦ **Pluggnb** — melodic, and playful\
-◦ **HipDut** — dutch rap energy\
-◦ **Arabic Song** — emotional & cinematic\
-◦ **JJCore** — awesome song rhythm\
-◦ **Vocaloid** — synthetic soul\
-◦ **HyperPop** — chaotic and loud, just like my mind
+◦ **Pluggnb** — dreamy trap meets jazzy R&B, layered synths and auto-tuned emotion\
+◦ **HipDut** — raw street narratives in Dutch, hard-hitting bass with urban identity\
+◦ **Arabic Song** — deeply emotional & cinematic, melodies that hit the soul\
+◦ **JJCore** — high-speed Japanese hardcore, anime samples at max BPM\
+◦ **Vocaloid** — synthetic voices carrying real emotions, from catchy pop to dark introspection\
+◦ **HyperPop** — everything turned up to 11, glitchy chaos that refuses to conform
 
 ---
 
@@ -74,7 +115,7 @@ Genres i vibe with :
 
 <br><br>
 
-![zerophyx-4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerophyx-4&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff)
+![zerophyx-4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerophyx-4&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&cache_seconds=1800)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=zerophyx-4&theme=github-dark&hide_border=true&background=0d0d0d)
 
@@ -84,7 +125,7 @@ Genres i vibe with :
 
 <br>
 
-[![](https://visitcount.itsvg.in/api?id=zerophyx-4&icon=2&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=zerophyx-4&style=flat-square&color=ffffff&label=visitors)](https://github.com/zerophyx-4)
 
 </div>
 
@@ -94,11 +135,11 @@ Genres i vibe with :
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=zerophyx-4&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=zerophyx-4&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerophyx-4&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerophyx-4&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&cache_seconds=1800)
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=zerophyx-4&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=zerophyx-4&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -147,5 +188,9 @@ Genres i vibe with :
 
 [![Sociabuzz](https://img.shields.io/badge/Sociabuzz-Support%20Me-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sociabuzz.com/rdite/tribe)
 [![Saweria](https://img.shields.io/badge/Saweria-Support%20Me-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/zerophyx)
+
+<br>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=120&section=footer&text=boy%20of%201000%20dreams.&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65)
 
 </div>
