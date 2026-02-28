@@ -1,7 +1,8 @@
 {
   "title": "Also meet my Telegram Friend 😆🔥",
   "font": "inter",
-  "rows": 3,
+  "rows": 2,
+  "rounded_corner": 16,
 
   "askew": 0,
   "direction": "</>",
@@ -10,7 +11,9 @@
 
   "background": {
     "image": "",
-    "blur": 0
+    "mirror": true,
+    "blur": 8,
+    "opacity": 0.4
   },
 
   "friends": [
