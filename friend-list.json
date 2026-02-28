@@ -1,6 +1,6 @@
 {
   "title": "Also meet my Telegram Friend 😆🔥",
-  "font": "arial",
+  "font": "sanfransisco",
   "rows": 2,
   "friends": [
     {"username": "XTENSEI"},
@@ -10,6 +10,7 @@
     {"username": "KimelaZX"},
     {"username": "ValentineSCLAIR"},
     {"username": "ZelephDragneel"},
-    {"username": "KNIGHTZSTARS"}
+    {"username": "KNIGHTZSTARS"},
+    {"username": "daffandl"}
   ]
 }
