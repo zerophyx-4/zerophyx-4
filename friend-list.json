@@ -1,7 +1,18 @@
 {
   "title": "Also meet my Telegram Friend 😆🔥",
-  "font": "sanfransisco",
-  "rows": 2,
+  "font": "inter",
+  "rows": 3,
+
+  "askew": 0,
+  "direction": "</>",
+  "order": [1, 3],
+  "slide": ">",
+
+  "background": {
+    "image": "",
+    "blur": 0
+  },
+
   "friends": [
     {"username": "XTENSEI"},
     {"username": "jvaswb"},
