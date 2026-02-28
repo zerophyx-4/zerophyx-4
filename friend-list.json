@@ -1,8 +1,8 @@
 {
   "title": "Also meet my Telegram Friend 😆🔥",
   "font": "inter",
-  "rows": 2,
-  "rounded_corner": 16,
+  "rows": 3,
+  "rounded_corner": 35,
 
   "askew": 0,
   "direction": "</>",
@@ -10,7 +10,7 @@
   "slide": ">",
 
   "background": {
-    "image": "",
+    "image": "/assets/banner/rain-japan-pixel.gif",
     "mirror": true,
     "blur": 8,
     "opacity": 0.4
