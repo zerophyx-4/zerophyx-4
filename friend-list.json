@@ -4,8 +4,8 @@
   "rows": 3,
   "rounded_corner": 35,
 
-  "askew": 30,
-  "direction": ">",
+  "askew": 0,
+  "direction": "</>",
   "order": [1, 3],
   "slide": ">",
 
