@@ -1,6 +1,6 @@
 <div align="center">
 
-<sub>zerophyx GitHub Profile</sub>
+<sub>zerophyx / GitHub Profile</sub>
 
 <img src="https://raw.githubusercontent.com/zerophyx-4/zerophyx-4/main/assets/elaina.gif" width="100%" />
 
@@ -36,14 +36,14 @@
       <sub><i>like solving a puzzle that fights back</i></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/puzzle.png" width="64"/>
+      <img src="https://raw.githubusercontent.com/topjohnwu/Magisk/master/docs/images/logo.png" width="64"/>
       <br/>
       <b>🧩 Magisk Modules</b>
       <br/>
       <sub><i>bending android to my will, one module at a time</i></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/opened-book.png" width="64"/>
+      <img src="https://img.icons8.com/fluency/96/book-shelf.png" width="64"/>
       <br/>
       <b>📚 Trying Something New</b>
       <br/>
@@ -115,7 +115,7 @@ Genres i vibe with :
 
 <br><br>
 
-![zerophyx-4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerophyx-4&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&cache_seconds=1800)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zerophyx-4&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff)](https://github.com/zerophyx-4)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=zerophyx-4&theme=github-dark&hide_border=true&background=0d0d0d)
 
@@ -125,7 +125,7 @@ Genres i vibe with :
 
 <br>
 
-[![](https://komarev.com/ghpvc/?username=zerophyx-4&style=flat-square&color=ffffff&label=visitors)](https://github.com/zerophyx-4)
+[![visitors](https://komarev.com/ghpvc/?username=zerophyx-4&style=for-the-badge&color=ffffff&label=VISITORS)](https://github.com/zerophyx-4)
 
 </div>
 
@@ -135,11 +135,11 @@ Genres i vibe with :
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=zerophyx-4&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=zerophyx-4&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/zerophyx-4)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerophyx-4&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&cache_seconds=1800)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zerophyx-4&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888)](https://github.com/zerophyx-4)
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=zerophyx-4&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=zerophyx-4&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/zerophyx-4)
 
 </div>
 
@@ -191,6 +191,6 @@ Genres i vibe with :
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=120&section=footer&text=boy%20of%201000%20dreams.&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=65)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3&height=150&section=footer&text=boy%20of%201000%20dreams.&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=zerophyx%20%C2%B7%20compiled%20in%20silence&descSize=14&descAlignY=82&descAlign=50)
 
 </div>
