@@ -10,7 +10,7 @@
   "slide": ">",
 
   "background": {
-    "image": "assets/banner/rain-in-japan-pixel.gif",
+    "image": "/assets/banner/rain-in-japan-pixel.gif",
     "mirror": true,
     "blur": 1,
     "opacity": 0.4
@@ -25,6 +25,7 @@
     {"username": "ValentineSCLAIR"},
     {"username": "ZelephDragneel"},
     {"username": "KNIGHTZSTARS"},
-    {"username": "daffandl"}
+    {"username": "daffandl"},
+    {"username": "rraaffaa2"}
   ]
 }
