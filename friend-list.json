@@ -5,7 +5,7 @@
   "rounded_corner": 35,
 
   "askew": 30,
-  "direction": "\",
+  "direction": ">",
   "order": [1, 3],
   "slide": ">",
 
