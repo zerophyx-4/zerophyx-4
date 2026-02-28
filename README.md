@@ -12,6 +12,8 @@
 
 ---
 
+<sub>🔴🟡🟢 &nbsp; / > zerophyx-4 > README.md > about me</sub>
+
 ## ◈ About Me 👤
 
 **Name** — Fatur\
@@ -22,6 +24,8 @@
 **Motto** — *"Boy of 1000 dreams."*
 
 ---
+
+<sub>🔴🟡🟢 &nbsp; / > zerophyx-4 > README.md > what do i like to do</sub>
 
 ## ◈ What do i like to do? 🛠️
 
@@ -55,6 +59,8 @@
 
 ---
 
+<sub>🔴🟡🟢 &nbsp; / > zerophyx-4 > README.md > stack</sub>
+
 ## ◈ Stack
 
 <div align="center">
@@ -78,6 +84,8 @@
 
 ---
 
+<sub>🔴🟡🟢 &nbsp; / > zerophyx-4 > README.md > what's in my ears</sub>
+
 ## ◈ What's in my ears 🎶
 
 Genres i vibe with :
@@ -90,6 +98,8 @@ Genres i vibe with :
 ◦ **HyperPop** — everything turned up to 11, glitchy chaos that refuses to conform
 
 ---
+
+<sub>🔴🟡🟢 &nbsp; / > zerophyx-4 > README.md > project & affiliated with</sub>
 
 ## ◈ Project & Affiliated With
 
@@ -104,6 +114,8 @@ Genres i vibe with :
 </div>
 
 ---
+
+<sub>🔴🟡🟢 &nbsp; / > zerophyx-4 > README.md > activity</sub>
 
 ## ◈ Activity ⏳🗃️
 
@@ -125,17 +137,19 @@ Genres i vibe with :
 
 <br>
 
-[![visitors](https://komarev.com/ghpvc/?username=zerophyx-4&style=for-the-badge&color=ffffff&label=VISITORS)](https://github.com/zerophyx-4)
+[![visitors](https://komarev.com/ghpvc/?username=zerophyx-4&style=for-the-badge&color=0e75b6&label=VISITORS&abbreviated=true)](https://github.com/zerophyx-4)
 
 </div>
 
 ---
 
+<sub>🔴🟡🟢 &nbsp; / > zerophyx-4 > README.md > records</sub>
+
 ## ◈ Records 🏆
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=zerophyx-4&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/zerophyx-4)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=zerophyx-4&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/zerophyx-4)
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zerophyx-4&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888)](https://github.com/zerophyx-4)
 
@@ -144,6 +158,8 @@ Genres i vibe with :
 </div>
 
 ---
+
+<sub>🔴🟡🟢 &nbsp; / > zerophyx-4 > README.md > recently played</sub>
 
 ## ◈ Recently Played 🎶▶️
 
@@ -159,12 +175,14 @@ Genres i vibe with :
 
 ---
 
+<sub>🔴🟡🟢 &nbsp; / > zerophyx-4 > README.md > socials</sub>
+
 ## ◈ Socials 🌐
 
 <table>
 <tr>
 <td valign="center" width="35%">
-<img src="https://raw.githubusercontent.com/zerophyx-4/zerophyx-4/main/assets/playing.gif" width="200" />
+<img src="https://raw.githubusercontent.com/zerophyx-4/zerophyx-4/main/assets/playing.gif" width="150" />
 </td>
 <td valign="center" width="65%">
 
@@ -179,6 +197,8 @@ Genres i vibe with :
 </table>
 
 ---
+
+<sub>🔴🟡🟢 &nbsp; / > zerophyx-4 > README.md > like my work</sub>
 
 ## ◈ Like My Work?! 🍪
 
