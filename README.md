@@ -23,11 +23,11 @@
 
 ---
 
-## ◈ System Operations 🛠️
+## ◈ What do i like to do? 🛠️
 
-- 🔧 **ROM Porting** — porting custom ROMs for MediaTek platforms, like solving a puzzle that fights back.
-- 🧩 **Magisk Modules** — bending android to my will, one module at a time.
-
+- 🔧 **OEM Porting** - porting custom ROMs for MediaTek platforms, like solving a puzzle that fights back.
+- 🧩 **Magisk Modules** - bending android to my will, one module at a time.
+- 📚 **Trying something new** - like making your own shell script, even though it often fails, making autoport, learning to make banners, etc.
 ---
 
 ## ◈ Stack
@@ -39,7 +39,7 @@
 
 ## ◈ What's in my ears 🎶
 
-genres i vibe with :
+Genres i vibe with :
 
 ◦ **Pluggnb** — melodic, and playful\
 ◦ **HipDut** — dutch rap energy\
@@ -64,7 +64,7 @@ genres i vibe with :
 
 ---
 
-## ◈ Aktivitas
+## ◈ Activity ⏳🗃️
 
 <div align="center">
 
@@ -143,7 +143,7 @@ genres i vibe with :
 
 <div align="center">
 
-*Buy me some snack cuz i also lov snacks :V*
+*Buy me some snack cuz i also lov snacks :>*
 
 [![Sociabuzz](https://img.shields.io/badge/Sociabuzz-Support%20Me-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sociabuzz.com/rdite/tribe)
 [![Saweria](https://img.shields.io/badge/Saweria-Support%20Me-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://saweria.co/zerophyx)
