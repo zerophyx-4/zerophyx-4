@@ -12,90 +12,27 @@
 
 ---
 
-<sub>🔴🟡🟢 &nbsp; / > zerophyx-4 > README.md > about me</sub>
-
-## ◈ About Me 👤
-
-**Name** — Fatur\
-**Age** — 14 y/o 🎂\
-**Grade** — 9th Grade, Junior High\
-**Focus** — ROM Porting · Magisk Modules\
-**Status** — Relaxed, productive when the mood strikes\
-**Motto** — *"Boy of 1000 dreams."*
-
----
-
-<sub>🔴🟡🟢 &nbsp; / > zerophyx-4 > README.md > what do i like to do</sub>
-
-## ◈ What do i like to do? 🛠️
-
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/android-os.png" width="64"/>
-      <br/>
-      <b>🔧 OEM Porting</b>
-      <br/>
-      <sub><i>like solving a puzzle that fights back</i></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/topjohnwu/Magisk/master/docs/images/logo.png" width="64"/>
-      <br/>
-      <b>🧩 Magisk Modules</b>
-      <br/>
-      <sub><i>bending android to my will, one module at a time</i></sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/book-shelf.png" width="64"/>
-      <br/>
-      <b>📚 Trying Something New</b>
-      <br/>
-      <sub><i>scripts, banners, autoport & more</i></sub>
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/zerophyx-4/zerophyx-4/main/assets/window_about.svg" width="600"/>
 </div>
 
 ---
 
-<sub>🔴🟡🟢 &nbsp; / > zerophyx-4 > README.md > stack</sub>
-
-## ◈ Stack
-
 <div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.icons8.com/fluency/96/android-os.png" width="48"/>
-      &nbsp;&nbsp;<b>Android</b>
-      <br/>
-      <sub><i>primary platform for ROM porting</i></sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.icons8.com/fluency/96/console.png" width="48"/>
-      &nbsp;&nbsp;<b>Shell</b>
-      <br/>
-      <sub><i>scripting, automation & module building</i></sub>
-    </td>
-  </tr>
-</table>
+<img src="https://raw.githubusercontent.com/zerophyx-4/zerophyx-4/main/assets/window_whatido.svg" width="600"/>
 </div>
 
 ---
 
-<sub>🔴🟡🟢 &nbsp; / > zerophyx-4 > README.md > what's in my ears</sub>
+<div align="center">
+<img src="https://raw.githubusercontent.com/zerophyx-4/zerophyx-4/main/assets/window_stack.svg" width="600"/>
+</div>
 
-## ◈ What's in my ears 🎶
+---
 
-Genres i vibe with :
-
-◦ **Pluggnb** — dreamy trap meets jazzy R&B, layered synths and auto-tuned emotion\
-◦ **HipDut** — raw street narratives in Dutch, hard-hitting bass with urban identity\
-◦ **Arabic Song** — deeply emotional & cinematic, melodies that hit the soul\
-◦ **JJCore** — high-speed Japanese hardcore, anime samples at max BPM\
-◦ **Vocaloid** — synthetic voices carrying real emotions, from catchy pop to dark introspection\
-◦ **HyperPop** — everything turned up to 11, glitchy chaos that refuses to conform
+<div align="center">
+<img src="https://raw.githubusercontent.com/zerophyx-4/zerophyx-4/main/assets/window_ears.svg" width="600"/>
+</div>
 
 ---
 
