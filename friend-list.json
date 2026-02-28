@@ -1,12 +1,12 @@
 {
   "title": "Also meet my Televram Friend 😆🔥",
-  "font": "monospace",
-  "rows": 3,
+  "font": "inter",
+  "rows": 2,
   "friends": [
     {"username": "XTENSEI"},
     {"username": "jvaswb"},
+    {"username": "WahyuCihuy"},
     {"username": "Greeezzz"},
-    {"username": "KimelaZX"},
-    {"username": "WahyuCihuy"}
+    {"username": "KimelaZX"}
   ]
 }
